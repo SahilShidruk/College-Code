@@ -1,6 +1,4 @@
-#include <cstdio>
 #include <iostream>
-
 
 int main() {
     // Different data types in C++
